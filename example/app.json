@@ -1,0 +1,22 @@
+{
+  "name": "react-native-recycler-sectionlist-example",
+  "displayName": "RecyclerSectionlist Example",
+  "expo": {
+    "name": "react-native-recycler-sectionlist-example",
+    "slug": "react-native-recycler-sectionlist-example",
+    "description": "Example app for react-native-recycler-sectionlist",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
